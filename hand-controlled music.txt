@@ -9,8 +9,6 @@ The Mediapipe model: Detects hand gestures and plays music based on them.
 Key features:
 Thumbs up: Video plays
 Palm closed completely: Video pauses
-Index finger inclined to the right: Increase volume
-Index finger inclined to the left: Decrease volume
 Palm open: Next song
 Thumbs down: Previous song
 
