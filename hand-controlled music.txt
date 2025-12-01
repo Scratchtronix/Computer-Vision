@@ -1,5 +1,7 @@
 This is an overview of what this mini-project is going to be:
 
+WARNING: Before you use the program, make sure to always align your hand in a perfect angle for the camera. This is just my first program, so not many enhancements!
+
 Webcam: Detects and processes frames
 The Mediapipe model: Detects hand gestures and plays music based on them.
 
