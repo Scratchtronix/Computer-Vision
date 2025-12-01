@@ -7,10 +7,10 @@ Webcam: Detects and processes frames
 The Mediapipe model: Detects hand gestures and plays music based on them.
 
 Key features:
-Thumbs up: Video plays
-Palm closed completely: Video pauses
-Palm open: Next song
+Thumbs up: Next song
 Thumbs down: Previous song
+Palm closed completely: Song pauses
+Palm open: Song resumes
 
 Music controller:
 This music is controlled by the pygame.mixer.music function.
