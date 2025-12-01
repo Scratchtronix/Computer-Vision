@@ -7,7 +7,7 @@ cap = cv2.VideoCapture(0)
 mp_hands = mp.solutions.hands
 hand = mp_hands.Hands()
 mp_draw = mp.solutions.drawing_utils
-files = "/Users/scratcherssubramaniyam/Documents/Computer-Vision-1/sample-songs"
+files = "Paste-in-your-song-folder"
 songs = []
 for song in os.listdir(files):
     songs.append(f"{files}/{song}")
