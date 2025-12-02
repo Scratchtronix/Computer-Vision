@@ -1,0 +1,4 @@
+This is the text file of the OCR Translation mini-project. This mini-project is probably one of the easiest out of all the others :). I used the chatgpt api key
+to translate the text because I find it to be more efficient. Please just type in the language you want to translate the text to and voila! This is just the
+beginning of my learning stage in computer vision and I plan to do much more! Also, make sure to create your own API key in the openai website and have your own
+sample image to test it with.
