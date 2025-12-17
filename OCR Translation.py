@@ -10,7 +10,7 @@ response = key.chat.completions.create(
     model="gpt-4o-mini",
     messages=[
         {"role" : "system", "content" : "You are a translator."},
-        {"role" : "user", "content" : f"Translate this text and return only the translated text in the language {lang}, not anything else-{text}."}
+        {"role" : "user", "content" : f"Translate this text and return only the translated text in the language {lang}, and not anything else-{text}."}
     ]
 )
 print(response.choices[0].message["content"])
