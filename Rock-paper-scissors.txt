@@ -1,5 +1,6 @@
 Welcome to the Rock Paper Scissors game! Scratchers edition 😉
 In this game, you just have to play rock, paper or scissors. But always make sure that your palm faces towards the camera. It does not work
 otherwise because I just used normal hand logic.
-In case you don't know how to play rock paper scissors, close your palm with your thumb outside. For scissors, make sure that your index 
+In case you don't know how to play rock paper scissors, close your palm with your thumb outside. For scissors, make sure that your index
+
 and middle fingers are raised and facing upwards. For paper, open your palm. Always make sure to face your palm towards the camera. Thank you for reviewing my project :D
