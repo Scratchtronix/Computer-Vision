@@ -1,6 +1,3 @@
-# Multiple hand overwrites(If another hand appears, it disturbs the cv logic)
-# Compare threads happen once only.
-# Players pick will be empty when the compare thread runs
 import time
 import mediapipe as mp
 import cv2, sys
